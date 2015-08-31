@@ -24,4 +24,4 @@ doc/
 .idea
 .secret
 
-/vendor
+/vendor/bundle
